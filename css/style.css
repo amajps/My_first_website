@@ -1,0 +1,44 @@
+body {
+    background-color: #08161e;
+    font-family: 'Courier New', Courier, monospace;
+    color: wheat;
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+
+}
+.col-8 {
+
+}
+.col-4 {
+
+}
+.nav_logo {
+    background: url(../images/logo.png) no-repeat center center;
+    background-size: 100%;
+    width: 70px;
+    height: 80px;
+}
+.col-9 {
+
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.my_photo {
+    background: url(../images/kitty.jpeg) no-repeat center center;
+    background-size: 100%;
+    width: 800px;
+    height: 600px;
+}
+.title_photo {
+    text-align: center;
+}
