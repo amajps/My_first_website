@@ -13,8 +13,8 @@ body {
 .row {
 
 }
-.col-8 {
-
+.col-12{
+    text-align: center;
 }
 .col-4 {
 
